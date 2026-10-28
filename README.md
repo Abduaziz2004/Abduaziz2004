@@ -27,3 +27,11 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abduaziz2004&theme=react-dark&hide_border=true" />
 </p>
+
+## 📊 GitHub statistikasi
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Abduaziz2004&theme=radical&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://ghchart.rshah.org/2f81f7/Abduaziz2004" alt="Faollik" />
+</p>
