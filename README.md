@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Salom,%20men%20Abduaziz!&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Dasturchi%20|%20O'rganuvchi%20|%20Ochiq%20manba&descAlignY=60&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=150&section=header&text=Salom,%20men%20Abduaziz!&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Dasturchi%20|%20O'rganuvchi%20|%20Ochiq%20manba&descAlignY=65&descSize=17" />
 </p>
 
 ## 🚀 Men haqimda
@@ -14,24 +14,24 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-## 📊 GitHub statistikasi
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Abduaziz2004&show_icons=true&theme=radical&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abduaziz2004&layout=donut&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abduaziz2004&theme=react-dark&hide_border=true" />
-</p>
+## 📁 Loyihalarim
+- 🌐 [Abduaziz.github.io](https://github.com/Abduaziz2004/Abduaziz.github.io) — shaxsiy sayt
+- 🎨 [portfolio](https://github.com/Abduaziz2004/portfolio) — portfolio loyiham
+- 🐼 [pandas-kutubxonasi-bilan-ishlash](https://github.com/Abduaziz2004/pandas-kutubxonasi-bilan-ishlash) — Pandas bo'yicha o'quv materiallar
+- ⚙️ [cpp-salom](https://github.com/Abduaziz2004/cpp-salom) — C++ dagi birinchi qadamlarim
 
 ## 📊 GitHub statistikasi
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Abduaziz2004&theme=radical&hide_border=true" />
 </p>
+
+## 📫 Bog'lanish
 <p align="center">
-  <img src="https://ghchart.rshah.org/2f81f7/Abduaziz2004" alt="Faollik" />
+  <a href="mailto:abduazizt2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Abduaziz2004"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
